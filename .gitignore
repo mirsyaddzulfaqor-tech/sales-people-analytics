@@ -1,0 +1,15 @@
+__pycache__/
+*.pyc
+.venv/
+venv/
+.DS_Store
+.streamlit/secrets.toml
+
+# Never commit a real system export.
+data/*real*
+data/*talenta*
+data/*Talenta*
+data/*qontak*
+data/*internal*
+*.xlsx
+*.xls
